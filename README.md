@@ -14,4 +14,10 @@ To me growth mindset is about being able to learn.
 
 - Stay Positive
 - Always Learn
-- 
+
+
+#### My name is Kyle Cohen and I enjoy:
+
+-[x} Fishing
+-[x] Hiking
+-[x] My dog
