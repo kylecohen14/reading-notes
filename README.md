@@ -10,10 +10,12 @@ My name is Kyle. I am a student at CodeFellows
 
 ###  Growth Mindset
 
-To me growth mindset is about being able to learn.
 
-- Stay Positive
-- Always Learn
+To me growth mindset is about the willingness to learn. Reminders for myself include:
+
+- Want to learn
+- Ask questions even when you "dont want to be that person"
+- Utilizing time effeciently
 
 
 #### My name is Kyle Cohen and I enjoy:
