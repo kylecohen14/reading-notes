@@ -21,6 +21,6 @@ To me growth mindset is about the willingness to learn. Reminders for myself inc
 
 - *Want to learn*
 - Ask questions even when you "dont want to be that person"
-- Utilizing time effeciently
+- Utilizing time *effeciently*
 
 
