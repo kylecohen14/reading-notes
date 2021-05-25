@@ -28,7 +28,7 @@ Stages are
 - **Staged**
 
 ### Setting up a Git Repository
-- _**Importing**_
+- _** Importing**_
   - Switch to the target project directory
  cd test
   - Use git init command
