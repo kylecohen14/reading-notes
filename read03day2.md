@@ -28,13 +28,42 @@ Stages are
 - **Staged**
 
 ### Setting up a Git Repository
-- _** Importing**_
+- _**Importing**_
   - Switch to the target project directory
  cd test
   - Use git init command
  git init
  
  ## To track these repo files
- git add * .c
+ ``` git add *.c ```
+ ``` git add LICENSE ```
+ ``` git commit -m “any message here” ```
+ 
+ ### Cloning
+ - Clone command with the repo URL
+ ``` git clone https://github.com/test ```
+ 
+ # To clone a repo into a directory with anothe name of your choosing....
+ ``` git clone https://github.com/test mydirectory ```
+ ![Workflow chart](https://blog.udemy.com/wp-content/uploads/2015/08/image066.png)
+ 
+ ### Workflow
+ # Three components
+ - Working directory (files)
+ - Index (staging)
+ - Head (most recent commit)
+ 
+ 
+ ### Check file status
+ TO determine the state of files utilize this command
+ ``` git status ```
+ 
+ 
+ ### Tracking and stagin a new file
+ - Single file
+ to track one file
+ ``` git add filename ```
+ - All files
+ ``` git add * ```
  
  
