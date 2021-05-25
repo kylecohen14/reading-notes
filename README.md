@@ -1,5 +1,5 @@
-& but
-&but
+> but
+>but
 *but
 
 ##### This is my reading notes for Code Fellows
