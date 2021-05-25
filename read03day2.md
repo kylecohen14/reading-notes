@@ -45,9 +45,10 @@ Stages are
  
  # To clone a repo into a directory with anothe name of your choosing....
  ``` git clone https://github.com/test mydirectory ```
- ![Workflow chart](https://blog.udemy.com/wp-content/uploads/2015/08/image066.png)
+ 
  
  ### Workflow
+ ![Workflow chart](https://blog.udemy.com/wp-content/uploads/2015/08/image066.png)
  # Three components
  - Working directory (files)
  - Index (staging)
@@ -66,4 +67,28 @@ Stages are
  - All files
  ``` git add * ```
  
+ Files are now staged and tracked, ready for committing
  
+ # After adding new file, and using ``` git status ```
+ ``` git status ```
+ On branch master
+ Changes to be committed
+ ( use ``` git reset HEAD ... ``` to unstage)
+  this should tell us that the changes that need commitment. And that it has been staged
+  
+  ### Committing a file
+  - Once staged, commit the changes and add a note as to what was changed
+  ``` git commit -m “made change x,y,z” ```
+  
+  ### Committing all changes made
+  ``` git commit -a ```
+  Commits snapshot of all mods to tracked files in Directory
+  
+  ##### Pushing Changes
+  - Now you want these changes in a remote repository
+  ``` git push origin master ```
+
+
+## Stashing changes
+- If you want to save changes without commiting use ``` git stash ```
+If ready to commit these stashed changes use ``` git stash apply ```
