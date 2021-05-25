@@ -8,7 +8,7 @@ be biased or prefrence, its going to come down to which editor fits **you**.
 
 - Text Editor - Software downloaded or accessed online. Used to build a site with text (code)
 
-##Software that comes standard with computers
+## Software that comes standard with computers
 - mac - *Text Edit*
 - windows - *Notepad*
 - Linux - *Gedit*
