@@ -1,3 +1,7 @@
+& but
+&but
+*but
+
 ##### This is my reading notes for Code Fellows
 #### My name is Kyle Cohen
 I am currently looking to change careers from HVAC to software development.
