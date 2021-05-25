@@ -18,7 +18,7 @@ Diffrent text editors will enable you to get deeper with your development,
 they may even suit your style a little better. Some of the editors that come with
 computers are standard.
 
-## THird party options
+## Third party options
 - NotePad++ -
 - TextWrangler -
 - BBEdit -
@@ -26,4 +26,13 @@ computers are standard.
 - Atom -
 - Brackets -
 - Sublime text -
-- 
+
+### Command Line
+A command line is a way to use short text to control actions on your computer.
+
+# Commands
+- LS = List
+- CP = Copy
+- MV = Move
+- MKDIR = Make directory
+- CD = Change directory
