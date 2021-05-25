@@ -33,3 +33,8 @@ Stages are
  cd test
   - Use git init command
  git init
+ 
+ ## To track these repo files
+ git add * .c
+ 
+ 
