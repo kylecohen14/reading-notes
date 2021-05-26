@@ -1,4 +1,10 @@
 ## Version Control allows you to revisit diffrent versions of a file/files by recording changes
+## Table of Contents
+1. [Markdown](markdown.md)
+2. [read03](read03day2.md)
+3. [readme](README.md)
+4. [thecoderscomputer](thecoderscomputer.md)
+5. [html](html.md)
 
 - Centralized VC
 collaboration with a team
