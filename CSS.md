@@ -6,7 +6,8 @@
 - **Document** is a text file such as a HTML
 - **presenting** is when a document is converted for the consumer/user. Chrome presents documents on the computer screen once you click on the document.
 
-# CSS can be used for 
+# CSS can be used for
+
 <ul>
     <li>changing color</li>
     <li>font, headings, and link size</li>
@@ -36,11 +37,11 @@ You would enter..
 - Can change entire website with one file
     - Must contain a reference to the external sheet in the ``` <link> ``` element inside the head
     Example
-        !doctype html
-        html
-        head
-        ``` <link rel="stylesheet" href="mystyle.css"> ```
-        /head
-        body
+ !doctype html
+html
+head
+ ``` <link rel="stylesheet" href="mystyle.css"> ```
+ /head
+body
         
 
