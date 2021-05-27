@@ -4,7 +4,7 @@
 - a cripting language for web pages.
 used by...
  - node.js
- - apache couchdb
+ - apache 
  - adobe acrobat
 - Used to design/ program how web pages behave.
 
