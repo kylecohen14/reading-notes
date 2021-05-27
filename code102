@@ -59,3 +59,4 @@ Or basically the effect code has
 
 - Semantics should make you ask yourself what certian elements will do what, and furthermore, is that going to be the right element for the job.
 
+p{color }
