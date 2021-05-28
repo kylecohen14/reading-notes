@@ -18,7 +18,7 @@
 # JavaScript has both binary and *unary* operators 
 -The binary operator
     requires two operators, one before the operator and one after the operator.
-~~~ operand1 operator operand2 ~~~~
+operand1 operator operand2
 EX. 3+4 pr x*y
 - A unary operator requires a single operand either vefore or after the operator
 ex. operator operand
