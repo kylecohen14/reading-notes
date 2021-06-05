@@ -1,5 +1,5 @@
-# This is where i will put my reading notes for markdown.
-##### This is my reading notes for Code Fellows
+## This is where i will put my reading notes for markdown.
+
 ## Table of Contents
 1. [Markdown](markdown.md)
 2. [read03](read03day2.md)
