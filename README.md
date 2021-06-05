@@ -1,6 +1,6 @@
-##### Code 201 Reading Notes
+## Code 201 Reading Notes
 
-## Table of Contents
+# Table of Contents
 1. [Reading assigment 1]()
 2. [Reading assigment 2]()
 3. [Reading assigment 3]()
@@ -17,20 +17,20 @@
 14. [Reading assigment 14]()
 15. [Reading assigment 15]()
 
-## Table of Contents
+# Table of Contents
 1. [Code 102](code102.md)
 2. [Code 201](code201.md)
 
 
 
-##### Reading notes for Code 102
+## **Reading notes for Code 102**
 
 
 #### My name is Kyle Cohen
 I am currently looking to change careers from HVAC to software development.
 To me this is a heavy crash course with minimal experience, but i will adapt and overcome so that I can achieve a commited career in this field.
 
-## I enjoy
+# I enjoy
 **Fishing**
 **Hiking**
 **My dog**
