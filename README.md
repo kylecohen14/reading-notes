@@ -1,7 +1,7 @@
 # Code 201 Reading Notes
 
 ### Table of Contents
-1. [Reading assigment 1]()
+1. [Reading assigment 1](class-01.md)
 2. [Reading assigment 2]()
 3. [Reading assigment 3]()
 4. [Reading assigment 4]()
