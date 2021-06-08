@@ -2,7 +2,7 @@
 
 ### Table of Contents
 1. [Reading assigment 1](class-01.md)
-2. [Reading assigment 2]()
+2. [Reading assigment 2](class-02.md)
 3. [Reading assigment 3]()
 4. [Reading assigment 4]()
 5. [Reading assigment 5]()
