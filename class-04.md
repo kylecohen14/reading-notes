@@ -42,3 +42,6 @@
 - social skills
 - job interview readiness
 - work enviroment readiness
+
+- Duckett, J.(2014). JAVASCRIPT & JQUERY , HTML&CSS
+Indianapolis, IN: John Wiley & Sons, INC
