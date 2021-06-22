@@ -12,10 +12,10 @@
 9. [Reading assigment 9](./CODE201readings/class-09.html)
 10. [Reading assigment 10](./CODE201readings/class-10.html)
 11. [Reading assigment 11](./CODE201readings/class-11.html)
-12. [Reading assigment 12]()
-13. [Reading assigment 13]()
-14. [Reading assigment 14]()
-15. [Reading assigment 15]()
+12. [Reading assigment 12](./CODE201readings/class-12.html)
+13. [Reading assigment 13](./CODE201readings/class-)
+14. [Reading assigment 14](./CODE201readings/class-)
+15. [Reading assigment 15](./CODE201readings/class-)
 
 ### Table of Contents
 1. [Code 102](code102.md)
