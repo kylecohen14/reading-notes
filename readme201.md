@@ -1,30 +1,6 @@
-# Reading Notes
-- This is a collection of my reading assigments for codefellows course
+# Code 201 Reading Notes
 
-## Code 401 Advanced Software Developmemt
-
-## Code 301 Intermediate Software Development
-### Table of Contents 301
-1. [Reading assigment 1]()
-2. [Reading assigment 2]()
-3. [Reading assigment 3]()
-4. [Reading assigment 4]()
-5. [Reading assigment 5]()
-6. [Reading assigment 6]()
-7. [Reading assigment 7]()
-8. [Reading assigment 8]()
-9. [Reading assigment 9]()
-10. [Reading assigment 10]()
-11. [Reading assigment 11]()
-12. [Reading assigment 12]()
-13. [Reading assigment 13]()
-14. [Reading assigment 14]()
-15. [Reading assigment 15]()
-
-
-## Code 201 Foundations of Software Development
-
-### Table of Contents 201
+### Table of Contents
 1. [Reading assigment 1](./CODE201readings/class-01.html)
 2. [Reading assigment 2](./CODE201readings/class-02.html)
 3. [Reading assigment 3](./CODE201readings/class-03.html)
@@ -44,11 +20,10 @@
 ### Table of Contents
 1. [Code 102](code102.md)
 2. [Code 201](code201.md)
-3. [Code 301](code301.md)
 
 
 
-## Intro to software Development
+# **Reading notes for Code 102**
 
 
 #### My name is Kyle Cohen
