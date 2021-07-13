@@ -6,7 +6,7 @@
 ## Code 301 Intermediate Software Development
 ### Table of Contents 301
 1. [Reading assigment 1](./CODE301readings/readClass01.html)
-2. [Reading assigment 2]()
+2. [Reading assigment 2](./CODE301readings/readClass02.html)
 3. [Reading assigment 3]()
 4. [Reading assigment 4]()
 5. [Reading assigment 5]()
