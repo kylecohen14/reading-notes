@@ -1,7 +1,7 @@
 # Passing Functions as Props
 ## React Docs - list and keys
 1. TCreats a new array that uses the results from called fucntion on every element in the called array
-2. 
+2. {}
 3. Key
 4. Help react identify changes. Giving a stable identity
 
@@ -11,7 +11,7 @@
 3. 
 4. 
 ## *Video*: How to pass functions between Components
-1. ``` 
+1. 
 2. 
 3. 
 4. 
