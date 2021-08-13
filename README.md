@@ -3,6 +3,26 @@
 
 ## Code 401 Advanced Software Developmemt
 
+
+## 301d77 CODE INTERMEDIATE SOFTWARE DEV
+### Table of contents 301(2)
+1. [Reading assigment 1](./301d77readings/Read01.html)
+2. [Reading assigment 2](./301d77readings/Read02.html)
+3. [Reading assigment 3](./301d77readings/Read03.html)
+4. [Reading assigment 4](./301d77readings/Read04.html)
+5. [Reading assigment 5](./301d77readings/Read05.html)
+6. [Reading assigment 6](./301d77readings/Read06.html)
+7. [Reading assigment 7](./301d77readings/Read07.html)
+8. [Reading assigment 8](./301d77readings/Read08.html)
+9. [Reading assigment 9](./301d77readings/Read09.html)
+10. [Reading assigment 10](./301d77readings/Read10.html)
+11. [Reading assigment 11](./301d77readings/Read11.html)
+12. [Reading assigment 12](./301d77readings/Read12.html)
+13. [Reading assigment 13](./301d77readings/Read13.html)
+14. [Reading assigment 14]()
+15. [Reading assigment 15]()
+
+
 ## Code 301 Intermediate Software Development
 ### Table of Contents 301
 1. [Reading assigment 1](./CODE301readings/readClass01.html)
