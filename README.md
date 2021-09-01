@@ -19,8 +19,8 @@
 11. [Reading assigment 11](./301d77readings/Read11.html)
 12. [Reading assigment 12](./301d77readings/Read12.html)
 13. [Reading assigment 13](./301d77readings/Read13.html)
-14. [Reading assigment 14]()
-15. [Reading assigment 15]()
+14. [Reading assigment 14](./301d77readings/Read14.html)
+15. [Reading assigment 15](./301d77readings/Read15.html)
 
 
 ## Code 301 Intermediate Software Development
