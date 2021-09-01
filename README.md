@@ -20,6 +20,7 @@
 12. [Reading assigment 12](./301d77readings/Read12.html)
 13. [Reading assigment 13](./301d77readings/Read13.html)
 14. [Reading assigment 14](./301d77readings/Read14.html)
+14. [Reading assigment 14b](./301d77readings/Read14b.html)
 15. [Reading assigment 15](./301d77readings/Read15.html)
 
 
